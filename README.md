@@ -11,4 +11,4 @@ Following are the high level deliverables of the project:
 
 3- Conduct a training for end-users describing the system resulted tools and techniques.
 # Project High-level Schedule:
-The high level plan for project schedule is to be completed within 11 months.
+This project took 11 months and helped to analayze the records of 10,000 students and generate 100s of reports and data visualizations.
